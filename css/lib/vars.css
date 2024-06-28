@@ -1,0 +1,8 @@
+:root {
+  /* Header */
+  --header-bg-color: #232536;
+  --nav-list-link-color: #fff;
+  --btn-sub-bg-color: #fff;
+  --nav-ff: "Inter", sans-serif;
+  --btn-sub-ff: "Sen", sans-serif;
+}
