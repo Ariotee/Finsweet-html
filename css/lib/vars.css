@@ -20,4 +20,25 @@
   --intro-btn-more-ff: "Sen", sans-serif;
   --intro-btn-more-color: #232536;
   --intro-btn-more-hover-bg-color: #edc14a;
+
+  /* Posts */
+  --posts-featured-title-ff: "Sen", sans-serif;
+  --posts-featured-title-color: #232536;
+  --posts-featured-body-border-color: 1px solid rgba(109, 110, 118, 0.1);
+  --posts-featured-body-creator-ff: "Inter", sans-serif;
+  --posts-featured-body-creator-color: #4c4c4c;
+  --posts-featured-creator-name-accent-color: #592ea9;
+  --posts-featured-body-creator-date-before-color: #4c4c4c;
+  --posts-featured-body-title-ff: "Sen", sans-serif;
+  --posts-featured-body-title-color: #232536;
+  --posts-featured-body-info-ff: "Inter", sans-serif;
+  --posts-featured-body-info-color: #6d6e76;
+  --posts-featured-btn-more-bg-color: #ffd050;
+  --posts-featured-btn-more-ff: "Sen", sans-serif;
+  --posts-featured-btn-more-color: #232536;
+  --posts-featured-btn-more-hover-color: #edc14a;
+  --posts-all-title-ff: "Sen", sans-serif;
+  --posts-all-title-color: #232536;
+  --posts-all-link-ff: "Inter", sans-serif;
+  --posts-all-link-color: #592ea9;
 }

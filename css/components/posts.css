@@ -1,0 +1,112 @@
+.posts {
+  padding: 128px 0;
+}
+
+.posts__featured-title {
+  font-family: var(--posts-featured-title-ff);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 133%;
+  letter-spacing: -0.06em;
+  color: var(--posts-featured-title-color);
+}
+
+.posts__featured-body {
+  max-width: 733px;
+  margin-top: 32px;
+  padding: 32px;
+  border: var(--posts-featured-body-border-color);
+}
+
+.featured__body-creator {
+  display: flex;
+  margin-top: 30px;
+
+  font-family: var(--posts-featured-body-creator-ff);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 143%;
+  color: var(--posts-featured-body-creator-color);
+}
+
+.f-creator_name-accent {
+  color: var(--posts-featured-creator-name-accent-color);
+}
+
+.featured__body-creator_date {
+  position: relative;
+  margin-left: 25px;
+}
+
+.featured__body-creator_date::before {
+  position: absolute;
+  content: "";
+  height: 10px;
+  width: 2px;
+  top: 5px;
+  left: -13px;
+  background-color: var(--posts-featured-body-creator-date-before-color);
+}
+
+.featured__body-title {
+  margin: 16px 0;
+
+  font-family: var(--posts-featured-body-title-ff);
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 143%;
+  letter-spacing: -0.04em;
+  color: var(--posts-featured-body-title-color);
+}
+
+.featured__body-info {
+  font-family: var(--posts-featured-body-info-ff);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: var(--posts-featured-body-info-color);
+}
+
+.featured__btn {
+  margin-top: 32px;
+}
+
+.featured__btn-more {
+  padding: 16px 48px;
+
+  background-color: var(--posts-featured-btn-more-bg-color);
+  font-family: var(--posts-featured-btn-more-ff);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 133%;
+  color: var(--posts-featured-btn-more-color);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.featured__btn-more:hover {
+  background-color: var(--posts-featured-btn-more-hover-color);
+}
+
+.posts__all {
+}
+
+.posts__all-title {
+  font-family: var(--posts-all-title-ff);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 133%;
+  letter-spacing: -0.06em;
+  color: var(--posts-all-title-color);
+}
+
+.posts__all-link {
+  font-family: var(--posts-all-link-ff);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: var(--posts-all-link-color);
+}
+
+.posts__all-list {
+  margin-top: 86px;
+}

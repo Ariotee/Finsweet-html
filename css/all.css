@@ -1,6 +1,8 @@
 /* Components */
 @import url(./components/header.css);
 @import url(./components/intro.css);
+@import url(./components/posts.css);
+@import url(./components/post/post.css);
 
 /* Libs */
 @import url(./lib/reuseClass.css);
