@@ -1,0 +1,62 @@
+.ourStory__body {
+  background-color: #fff;
+  position: relative;
+  width: 706px;
+  padding: 70px;
+}
+
+.ourStory__body::before {
+  content: url(../../assets/img/ourStory-ill.png);
+  position: absolute;
+  top: -120px;
+  left: -540px;
+  z-index: -1;
+}
+
+.ourStory__body-subtitle {
+  font-family: var(--ourStory-subtitle-ff);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  color: var(--ourStory-subtitle-color);
+}
+
+.ourStory__body-title {
+  margin: 24px 0 16px;
+
+  font-family: var(--ourStory-title-ff);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 133%;
+  letter-spacing: -0.04em;
+  color: var(--ourStory-title-color);
+}
+
+.ourStory__body-info {
+  font-family: var(--ourStory-info-ff);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: var(--ourStory-info-color);
+}
+
+.ourStory__body-btn {
+  margin-top: 32px;
+}
+
+.ourStory__body-btn_discover {
+  padding: 16px 48px;
+  background: var(--ourStory-btn-discover-color-bg);
+  font-family: var(--ourStory-btn-discover-ff);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 133%;
+  color: var(--ourStory-btn-discover-color);
+  transition: all 0.3s ease-in-out;
+}
+
+.ourStory__body-btn_discover:hover {
+  background-color: var(--ourStory-btn-discover-hover-bg-color);
+}

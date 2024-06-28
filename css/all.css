@@ -5,6 +5,7 @@
 @import url(./components/post/post.css);
 @import url(./components/aboutUs.css);
 @import url(./components/categories.css);
+@import url(./components/ourStory.css);
 
 /* Libs */
 @import url(./lib/reuseClass.css);

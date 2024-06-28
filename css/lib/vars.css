@@ -68,4 +68,16 @@
   --categories-item-info-ff: "Inter", sans-serif;
   --categories-item-info-color: #6d6e76;
   --categories-item-hover-bg: #ffd050;
+
+  /* Our Story */
+  --ourStory-subtitle-ff: "Inter", sans-serif;
+  --ourStory-subtitle-color: #232536;
+  --ourStory-title-ff: "Sen", sans-serif;
+  --ourStory-title-color: #232536;
+  --ourStory-info-ff: "Inter", sans-serif;
+  --ourStory-info-color: #6d6e76;
+  --ourStory-btn-discover-ff: "Sen", sans-serif;
+  --ourStory-btn-discover-color-bg: #ffd050;
+  --ourStory-btn-discover-color: #232536;
+  --ourStory-btn-discover-hover-bg-color: #edc14a;
 }
