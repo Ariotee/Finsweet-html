@@ -1,3 +1,7 @@
+.ourStory {
+  height: 705px;
+}
+
 .ourStory__body {
   background-color: #fff;
   position: relative;
@@ -8,7 +12,7 @@
 .ourStory__body::before {
   content: url(../../assets/img/ourStory-ill.png);
   position: absolute;
-  top: -120px;
+  top: -150px;
   left: -540px;
   z-index: -1;
 }
