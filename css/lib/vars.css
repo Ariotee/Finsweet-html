@@ -59,4 +59,13 @@
   --ourMision-title-color: #232536;
   --ourMision-info-ff: "Inter", sans-serif;
   --ourMision-info-color: #6d6e76;
+
+  /* Categories */
+  --categories-title-ff: "Sen", sans-serif;
+  --categories-title-color: #232536;
+  --categories-item-name-ff: "Sen", sans-serif;
+  --categories-item-name-color: #232536;
+  --categories-item-info-ff: "Inter", sans-serif;
+  --categories-item-info-color: #6d6e76;
+  --categories-item-hover-bg: #ffd050;
 }
