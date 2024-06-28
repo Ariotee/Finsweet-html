@@ -41,4 +41,22 @@
   --posts-all-title-color: #232536;
   --posts-all-link-ff: "Inter", sans-serif;
   --posts-all-link-color: #592ea9;
+
+  /* About Us */
+  --aboutUs-bg-color: #f4f0f8;
+  --aboutUs-subtitle-ff: "Inter", sans-serif;
+  --aboutUs-subtitle-color: #232536;
+  --aboutUs-title-ff: "Sen", sans-serif;
+  --aboutUs-title-color: #232536;
+  --aboutUs-info-ff: "Inter", sans-serif;
+  --aboutUs-info-color: #6d6e76;
+  --aboutUs-link-more-ff: "Sen", sans-serif;
+  --aboutUs-link-more-color: #592ea9;
+
+  --ourMision-subtitle-ff: "Inter", sans-serif;
+  --ourMision-subtitle-color: #232536;
+  --ourMision-title-ff: "Sen", sans-serif;
+  --ourMision-title-color: #232536;
+  --ourMision-info-ff: "Inter", sans-serif;
+  --ourMision-info-color: #6d6e76;
 }

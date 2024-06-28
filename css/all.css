@@ -3,6 +3,7 @@
 @import url(./components/intro.css);
 @import url(./components/posts.css);
 @import url(./components/post/post.css);
+@import url(./components/aboutUs.css);
 
 /* Libs */
 @import url(./lib/reuseClass.css);
