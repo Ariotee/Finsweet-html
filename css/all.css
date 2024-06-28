@@ -6,6 +6,7 @@
 @import url(./components/aboutUs.css);
 @import url(./components/categories.css);
 @import url(./components/ourStory.css);
+@import url(./components/authors.css);
 
 /* Libs */
 @import url(./lib/reuseClass.css);

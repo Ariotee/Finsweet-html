@@ -80,4 +80,14 @@
   --ourStory-btn-discover-color-bg: #ffd050;
   --ourStory-btn-discover-color: #232536;
   --ourStory-btn-discover-hover-bg-color: #edc14a;
+
+  /* Authors */
+  --authors-title-ff: "Sen", sans-serif;
+  --authors-title-color: #232536;
+  --authors-item-bg-color: #f4f4f4;
+  --authors-item-hover-bg-color: #fbf6ea;
+  --authors-name-ff: "Sen", sans-serif;
+  --authors-name-color: #232536;
+  --authors-company-ff: "Inter", sans-serif;
+  --authors-company-color: #6d6e76;
 }
