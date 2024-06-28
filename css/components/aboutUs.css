@@ -1,0 +1,86 @@
+.aboutUs {
+  position: relative;
+  padding: 96px 0;
+  background-color: var(--aboutUs-bg-color);
+}
+
+.aboutUs::before {
+  content: url(../../assets/svg/pattern.svg);
+  position: absolute;
+  right: 0;
+  top: -23px;
+}
+
+.aboutUs__block,
+.ourMision__block {
+  max-width: 487px;
+}
+
+.aboutUs__block-subtitle {
+  font-family: var(--aboutUs-subtitle-ff);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  color: var(--aboutUs-subtitle-color);
+}
+
+.aboutUs__block-title {
+  margin: 24px 0 16px;
+
+  font-family: var(--aboutUs-title-ff);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 133%;
+  letter-spacing: -0.06em;
+  color: var(--aboutUs-title-color);
+}
+
+.aboutUs__block-info {
+  font-family: var(--aboutUs-info-ff);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: var(--aboutUs-info-color);
+}
+
+.aboutUs__block-link_more {
+  display: block;
+  margin-top: 16px;
+
+  font-family: var(--aboutUs-link-more-ff);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 178%;
+  color: var(--aboutUs-link-more-color);
+}
+
+.ourMision__block-subtitle {
+  font-family: var(--ourMision-subtitle-ff);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  color: var(--ourMision-subtitle-color);
+}
+
+.ourMision__block-title {
+  margin: 24px 0 16px;
+
+  font-family: var(--ourMision-title-ff);
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 143%;
+  letter-spacing: -0.04em;
+  color: var(--ourMision-title-color);
+}
+
+.ourMision__block-info {
+  font-family: var(--ourMision-info-ff);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: var(--ourMision-info-color);
+}
