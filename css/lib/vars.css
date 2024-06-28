@@ -5,4 +5,19 @@
   --btn-sub-bg-color: #fff;
   --nav-ff: "Inter", sans-serif;
   --btn-sub-ff: "Sen", sans-serif;
+
+  /* Intro */
+  --intro-subtitlie-ff: "Inter", sans-serif;
+  --intro-subtitlie-color: #fff;
+  --intro-title-ff: "Sen", sans-serif;
+  --intro-title-color: #fff;
+  --intro-creator-name-ff: "Inter", sans-serif;
+  --intro-creator-name-color: #fff;
+  --intro-name-accent: #ffd050;
+  --intro-info-ff: "Inter", sans-serif;
+  --intro-info-color: #fff;
+  --intro-btn-more-bg-color: #ffd050;
+  --intro-btn-more-ff: "Sen", sans-serif;
+  --intro-btn-more-color: #232536;
+  --intro-btn-more-hover-bg-color: #edc14a;
 }
