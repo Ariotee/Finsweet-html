@@ -1,0 +1,33 @@
+.header {
+  padding: 12px 0;
+  background-color: var(--header-bg-color);
+}
+
+.header__Rside-nav {
+  margin-right: 32px;
+}
+
+.nav__list {
+  gap: 24px;
+}
+
+.nav__list-link {
+  color: var(--nav-list-link-color);
+}
+
+.nav__list-item {
+  font-family: var(--nav-ff);
+  line-height: 28px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.btn-sub {
+  padding: 10px 35px;
+  background-color: var(--btn-sub-bg-color);
+
+  font-family: var(--btn-sub-ff);
+  line-height: 28px;
+  font-weight: 500;
+  font-size: 18px;
+}
