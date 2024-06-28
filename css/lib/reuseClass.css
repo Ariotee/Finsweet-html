@@ -27,3 +27,11 @@
   display: flex;
   justify-content: space-between;
 }
+
+.flex-RDc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  height: 705px;
+}
